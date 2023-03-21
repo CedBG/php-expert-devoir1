@@ -13,6 +13,8 @@
 
 <div class="container">
 
+    <!-- header -->
+
     <header>
         <div class="jumbotron">
             <h1 class="display-4">Bienvenue sur la page d'accueil de votre école</h1>
@@ -32,6 +34,8 @@
             </li>
         </ul>
     </header>
+
+    <!-- main -->
         
     <main>
        
@@ -39,10 +43,17 @@
         
     </main>
 
-    <footer>
+    <!-- footer -->
 
+    <footer class="bg-light text-center text-white">
+ 
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2023 Copyright:
+    <a class="text-white" href="#">Accueil école</a>
+  </div>
 
-    </footer>
+</footer>
+
 </div>
 
 
