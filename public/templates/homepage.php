@@ -1,4 +1,5 @@
 
+
 <!doctype html>
 <html lang="fr">
   <head>
@@ -39,7 +40,7 @@
         
     <main>
        
-        <img  src="./img/ecole.jpg"  class="object-fit-contain border rounded " whidth=300px height=auto alt="école">
+        <img  src="./img/ecole.jpg"  class="object-fit-contain border rounded img-responsive" alt="école">
         
     </main>
 
@@ -47,12 +48,14 @@
 
     <footer class="bg-light text-center text-white">
  
-  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2023 Copyright:
-    <a class="text-white" href="#">Accueil école</a>
-  </div>
+      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        <p>
+           © 2023 Copyright:
+        </p>
+        <a class="text-white" href="#">Accueil école</a>
+      </div>
 
-</footer>
+    </footer>
 
 </div>
 

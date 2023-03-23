@@ -19,7 +19,7 @@
   <div class="container">
   <a href="index.php">
       <div>
-        <i class="fa-solid fa-school"></i>
+        <i class="fa-solid fa-school icon"></i>
       </div>
       <p>Retour à l'accueil</p>
     </a>
@@ -29,7 +29,7 @@
 </div>
     
   <figure class="figure">
-  <img src="./img/ecole_a" class="figure-img img-fluid rounded" alt="école A">
+  <img src="./img/ecole_a" class="figure-img img-fluid rounded img-responsive" alt="école A">
   <figcaption class="figure-caption text-end">école A</figcaption>
 </figure>
 
