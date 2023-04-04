@@ -20,5 +20,5 @@
 
   <!-- footer -->
 
-  <?php include 'footer_inc.php' ?>
+  <?php include '../includes/footer_inc.php' ?>
 
