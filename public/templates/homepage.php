@@ -4,11 +4,11 @@
 
   <!-- head -->
 
-  <?php include 'head_inc.php' ?>
+  <?php include '../includes/head_inc.php' ?>
 
   <!-- header -->
 
-  <?php include 'header_inc.php' ?>
+  <?php include '../includes/header_inc.php' ?>
 
   <!-- main -->
         
